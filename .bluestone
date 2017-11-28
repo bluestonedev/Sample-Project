@@ -2,6 +2,8 @@
 project:
   name: "Sample Project"
   version: "0.1"
+  featureId:
+  - "dfbadec6-f619-4b04-be37-0a94726627ba"
   status:
     title: "Draft"
     details: null
