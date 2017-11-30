@@ -35,3 +35,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "2165e441-4f0b-4e57-8421-ae9cf5e21c52"
+  name: ""
+  featureType:
+    id: "Image Processing Service"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
