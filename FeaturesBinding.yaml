@@ -8,3 +8,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "dc4e8c9c-e433-48ae-97a9-866136805778"
+  name: ""
+  featureType:
+    id: "Mobile Analytics"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
