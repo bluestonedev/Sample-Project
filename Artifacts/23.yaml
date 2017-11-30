@@ -1,0 +1,23 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "242"
+- key: "ApplicationId"
+  value: ""
+id: null
+name: "23"
+artifactTypeId: "Integration Package"
+description:
+  title: ""
+  details: "cfy"
+  icon: null
+  background: null
+  moreInfo: ""
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: "242"
+  type: "ftrdr"
