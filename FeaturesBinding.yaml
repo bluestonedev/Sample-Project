@@ -17,3 +17,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "47f2bdab-bedb-4beb-9ce2-e8032b931e49"
+  name: ""
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
