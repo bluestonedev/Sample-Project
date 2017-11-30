@@ -1,0 +1,23 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "integ"
+- key: "ApplicationId"
+  value: ""
+id: null
+name: "integ"
+artifactTypeId: "Integration Package"
+description:
+  title: ""
+  details: ""
+  icon: null
+  background: null
+  moreInfo: ""
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: "integ"
+  type: "test"
