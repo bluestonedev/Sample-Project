@@ -71,3 +71,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "d42654f0-b58d-42c7-b652-20f5ce9bc143"
+  name: ""
+  featureType:
+    id: "Natural Language Processing Service"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
