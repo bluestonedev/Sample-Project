@@ -44,3 +44,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "1f4cc632-34c8-4fa2-b580-44628f8d1684"
+  name: ""
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
