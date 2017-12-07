@@ -89,3 +89,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "20d21fcc-442d-4ab4-92e0-e00d9377844f"
+  name: ""
+  featureType:
+    id: "Gamification"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
