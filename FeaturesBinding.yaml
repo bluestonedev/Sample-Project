@@ -98,3 +98,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "73ba55e4-8d61-4bba-901e-d65217d07ac8"
+  name: ""
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
